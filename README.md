@@ -1,5 +1,5 @@
 # ResNet50
-Residual neural network.
+Residual neural network (as provided in the CNN course by A. Ng).
 
 The residual neural network model is described in:
 
